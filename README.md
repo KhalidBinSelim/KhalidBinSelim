@@ -21,20 +21,8 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 📅 *Mar 2022 – June 2026 (Expected)*  
 📊 **CGPA:** 3.72 / 4.00 *(up to 6th semester)*
 
----
-
-## 🧑‍💼 Experience
-
-### 🤖 AI Model Trainer — **Outlier** *(Remote)*
-
-📅 *Jun 2024 – Oct 2024*
-
-- Trained and evaluated **Bangla-language Large Language Models (LLMs)** in low-resource environments.  
-- Analyzed **linguistic edge cases, dialectal variations, and culturally sensitive prompts**.  
-- Improved **model fluency, cultural alignment, and robustness** through structured prompt evaluation and error analysis.
 
 ---
-
 
 
 ## 🧑‍💻 My Tech Stack
@@ -46,20 +34,14 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 
 ### **Web & Frameworks**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Android Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge\&logo=android\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+
 
 ### **Embedded & IoT**
 
@@ -72,18 +54,17 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
 ### **AI & ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge\&logo=huggingface\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)
+
 
 ---
 
@@ -92,19 +73,17 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 
 ## 🌱 Key Experiences & Explorations
 
-- **AI/ML Research:** Optimized Bangla LLMs, improving low-resource dialect understanding and cultural alignment.  
+- **AI/ML Research:** Introduced Bangla Speech-to-IPA Transcription, improving low-resource dialect understanding and cultural alignment.  
 - **Backend & Systems:** Built systems with Express.js; orchestrated microservices.  
-- **Cloud & DevOps:** Managed AWS infrastructure (EC2, S3, Lambda, CloudWatch, SQS) and CI/CD pipelines via GitHub Actions & Azure DevOps.  
-- **Functional & Low-Level Programming:** Built compilers with Assembly (Intel 8086).  
-- **Computer Vision:** Implemented OCR pipelines with PyTorch.  
-- **Mobile Development:** Android Jetpack Compose apps with Kotlin.  
+- **Cloud & DevOps:** Managed AWS infrastructure (EC2, S3, Lambda, CloudWatch, SQS) and CI/CD pipelines via GitHub Actions.  
+- **Functional & Low-Level Programming:** Built IOT projects with Arduino.  
 - **Space-Tech Innovation:** Seismic data analysis for NASA Space Apps with noise filtering and reduced processing overhead.  
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-- **LeetCode:** 150+ problems solved; Top 20% in weekly contests; highest rating **1546** (Top 32.5% Worldwide).  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shadow0fTwilight?theme=dark)  -->
+- **LeetCode:** 170+ problems solved; Top 20% in weekly contests; highest rating **1582** (Top 25.97% Worldwide).  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shadow0fTwilight?theme=dark)  -->
 - **CodeChef:** 100+ problems solved; highest rating **1450** (Top 15.27% worldwide). 
 - **CodeForces:** More than 800 problems solved.  
 - **SOLVIO AI Hackathon 2025:** Ranked Top 20 (Team) among 3,259 individual participants; built **Lumos** scholarship platform which helps applicants by reducing scholarship application time.  
@@ -118,18 +97,21 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khalidbinselim&theme=tokyonight&hide_border=true" />
+</p>
 
-![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalidbinselim&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidbinselim&layout=compact&theme=tokyonight&hide_border=true)
 
----
+
 
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-khalidbinselim%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:khalidbinselim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid%20Bin%20Selim-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khalid-bin-selim-4a043a30a)
+[![Facebook](https://img.shields.io/badge/Facebook-Khalid%20Bin%20Selim-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khalid.bin.selim.2024)
+[![Instagram](https://img.shields.io/badge/Instagram-__khalid.44__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__khalid.44__/)
 
 ---
+
 
 *"Learning never exhausts the mind." — Leonardo da Vinci*
