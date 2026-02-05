@@ -83,7 +83,7 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 
 ## 🏆 Achievements & Highlights
 
-- **LeetCode:** 170+ problems solved; Top 20% in weekly contests; highest rating **1582** (Top 25.97% Worldwide).  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shadow0fTwilight?theme=dark)  -->
+- **LeetCode:** 170+ problems solved; highest rating **1582** (Top 25.97% Worldwide).  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shadow0fTwilight?theme=dark)  -->
 - **CodeChef:** 100+ problems solved; highest rating **1450** (Top 15.27% worldwide). 
 - **CodeForces:** More than 800 problems solved.  
 - **SOLVIO AI Hackathon 2025:** Ranked Top 20 (Team) among 3,259 individual participants; built **Lumos** scholarship platform which helps applicants by reducing scholarship application time.  
