@@ -19,7 +19,7 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 🎓 **Shahjalal University of Science and Technology (SUST)**  
 **BSc (Engg.) in Computer Science & Engineering**  
 📅 *Mar 2022 – June 2026 (Expected)*  
-📊 **CGPA:** 3.72 / 4.00 *(up to 6th semester)*
+📊 **CGPA:** 3.71 / 4.00 *(up to 6th semester)*
 
 
 ---
@@ -73,7 +73,7 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 
 ## 🌱 Key Experiences & Explorations
 
-- **AI/ML Research:** Introduced Bangla Speech-to-IPA Transcription, improving low-resource dialect understanding and cultural alignment.  
+- **AI/ML Research:** Introduced Bangla Speech-to-IPA Transcription and intensity classification of Bangla Hate Speech, improving low-resource dialect understanding and cultural alignment.  
 - **Backend & Systems:** Built systems with Express.js; orchestrated microservices.  
 - **Cloud & DevOps:** Managed AWS infrastructure (EC2, S3, Lambda, CloudWatch, SQS) and CI/CD pipelines via GitHub Actions.  
 - **Functional & Low-Level Programming:** Built IOT projects with Arduino.  
@@ -83,12 +83,13 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 
 ## 🏆 Achievements & Highlights
 
-- **LeetCode:** 170+ problems solved; highest rating **1582** (Top 25.97% Worldwide).  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shadow0fTwilight?theme=dark)  -->
+- **LeetCode:** 240+ problems solved; highest rating **1582** (Top 26.01% Worldwide).  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shadow0fTwilight?theme=dark)  -->
 - **CodeChef:** 100+ problems solved; highest rating **1450** (Top 15.27% worldwide). 
-- **CodeForces:** More than 800 problems solved.  
-- **SOLVIO AI Hackathon 2025:** Ranked Top 20 (Team) among 3,259 individual participants; built **Lumos** scholarship platform which helps applicants by reducing scholarship application time.  
+- **CodeForces:** More than 880 problems solved.  
+- **SOLVIO AI Hackathon 2025:** Ranked Top 20 (Team) among 3,259 individual participants; built **Lumos** scholarship platform which helps applicants by reducing scholarship application time.
+- **IEEE QPAIN 2026:** Paper on Intensity Classification of Bangla Hate Speech. 
 - **IEEE COMPAS 2025:** Paper on Bangla Speech-to-IPA transcription; achieving **WER 1.7%**, **CER 0.414%**.  
-- **Team SUST CareCrew:** Fund Winner in University Innovation Hub Program for **Matrika**, an AI based solution for easy accessibility of pregnant women during pregnancy.  
+- **Team SUST CareCrew:** Fund Winner in University Innovation Hub Program for **CareNest** (currently **Matrika**), an AI based solution for easy accessibility of pregnant women during pregnancy.  
 - **NASA Space Apps Challenge 2023 & 2024:** Selected for national onsite and online rounds.  
 - **EricssonEdge Academia Scholar:** Selected among top 700 candidates across 12 different Asia-Pacific countries for this program.  
 - **Competitive Programming:** Top 200 in ICPC Preliminary 2023.
