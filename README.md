@@ -19,7 +19,7 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 🎓 **Shahjalal University of Science and Technology (SUST)**  
 **BSc (Engg.) in Computer Science & Engineering**  
 📅 *Mar 2022 – June 2026 (Expected)*  
-📊 **CGPA:** 3.71 / 4.00 *(up to 6th semester)*
+📊 **CGPA:** 3.75 / 4.00 *(up to 7th semester)*
 
 
 ---
@@ -83,8 +83,8 @@ Beyond tech, I enjoy **photography, traveling, movies**, and engaging in discuss
 
 ## 🏆 Achievements & Highlights
 
-- **LeetCode:** 240+ problems solved; highest rating **1582** (Top 26.01% Worldwide).  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shadow0fTwilight?theme=dark)  -->
-- **CodeChef:** 100+ problems solved; highest rating **1450** (Top 15.27% worldwide). 
+- **LeetCode:** 280+ problems solved; highest rating **1633** (Top 19% Worldwide).  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Shadow0fTwilight?theme=dark)  -->
+- **CodeChef:** 100+ problems solved; highest rating **1450** (Top 15% worldwide). 
 - **CodeForces:** More than 880 problems solved.  
 - **SOLVIO AI Hackathon 2025:** Ranked Top 20 (Team) among 3,259 individual participants; built **Lumos** scholarship platform which helps applicants by reducing scholarship application time.
 - **IEEE QPAIN 2026:** Paper on Intensity Classification of Bangla Hate Speech. 
