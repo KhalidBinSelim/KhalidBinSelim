@@ -15,7 +15,7 @@
 
 ## 🧑‍💼 About Me
 
-I am a **Faculty Member in the Department of Computer Science and Engineering** at **Sylhet Metropolitan University**, Bangladesh. I hold a BSc (Engineering) in Computer Science and Engineering from **Shahjalal University of Science and Technology (SUST)**.
+I am a **Faculty Member in the Department of Computer Science and Engineering** at **Metropolitan University**, Sylhet, Bangladesh. I hold a BSc (Engineering) in Computer Science and Engineering from **Shahjalal University of Science and Technology (SUST)**.
 
 My academic and professional interests span **Human-Computer Interaction (HCI)**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Machine Learning**. I am passionate about building accessible and impactful technology, publishing peer-reviewed research, and mentoring the next generation of engineers.
 
