@@ -31,13 +31,13 @@ My academic and professional interests span **Human-Computer Interaction (HCI)**
 
 ## 🔬 Research
 
-**🧩 Undergraduate Thesis (Ongoing)** — *Developing an Accessible CAPTCHA for Users with Learning Disabilities*
+**🧩 Undergraduate Thesis** — *Developing an Accessible CAPTCHA for Users with Learning Disabilities*
 > Supervised by Dr. Farida Chowdhury (BRAC University) and Dr. Md. Forhad Rabbi (SUST)
 - Conducted usability studies with dyslexic users via interviews and task analysis
 - Identified cognitive barriers: visual crowding, memory load, and linguistic complexity
 - Designed a path-drawing graphical CAPTCHA with stroke-based geometric similarity validation
 
-**📱 Smartphone-Based Anemia Screening (Ongoing)**
+**📱 Smartphone-Based Anemia Screening**
 > Supervised by Dr. Mohammad Shahidur Rahman and A.K.M. Fakhrul Hossain (SUST)
 - Designed an observational cross-sectional study collecting nail/palm images with hemoglobin reports
 - Developing CNN-based models for non-invasive anemia screening
