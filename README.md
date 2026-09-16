@@ -23,15 +23,15 @@ My academic and professional interests span **Human-Computer Interaction (HCI)**
 
 ## 📄 Publications
 
-- **Khalid Bin Selim** et al., *"A Transformer-Based Approach for Intensity Classification of Bengali Hate Speech"* — IEEE QPAIN 2026, Chittagong, Bangladesh. \[[Link](#)\]
+- **Khalid Bin Selim** et al., *"A Transformer-Based Approach for Intensity Classification of Bengali Hate Speech"* : IEEE QPAIN 2026, Chittagong, Bangladesh. \[[Link](#)\]
 
-- **Khalid Bin Selim** et al., *"Bangla Speech to IPA Transcription: A Multi-Stage Transformer-Based Approach"* — IEEE COMPAS 2025, Kushtia, Bangladesh. DOI: 10.1109/COMPAS67506.2025.11381849. \[[Link](#)\]
+- **Khalid Bin Selim** et al., *"Bangla Speech to IPA Transcription: A Multi-Stage Transformer-Based Approach"* : IEEE COMPAS 2025, Kushtia, Bangladesh. DOI: 10.1109/COMPAS67506.2025.11381849. \[[Link](#)\]
 
 ---
 
 ## 🔬 Research
 
-**🧩 Undergraduate Thesis** — *Developing an Accessible CAPTCHA for Users with Learning Disabilities*
+**🧩 Undergraduate Thesis** : *Developing an Accessible CAPTCHA for Users with Learning Disabilities*
 > Supervised by Dr. Farida Chowdhury (BRAC University) and Dr. Md. Forhad Rabbi (SUST)
 - Conducted usability studies with dyslexic users via interviews and task analysis
 - Identified cognitive barriers: visual crowding, memory load, and linguistic complexity
@@ -42,7 +42,7 @@ My academic and professional interests span **Human-Computer Interaction (HCI)**
 - Designed an observational cross-sectional study collecting nail/palm images with hemoglobin reports
 - Developing CNN-based models for non-invasive anemia screening
 
-**🌍 CoSeismic: Seismic Data Analysis using Machine Learning** *(NASA Space Apps Challenge 2024 — National Round)*
+**🌍 CoSeismic: Seismic Data Analysis using Machine Learning** *(NASA Space Apps Challenge 2024 : National Round)*
 - Built ML pipelines in Python (PyTorch, NumPy, Pandas) to process Apollo and Mars InSight seismic data
 - Achieved 30% improvement in computational efficiency through optimized data processing workflows
 
@@ -50,15 +50,15 @@ My academic and professional interests span **Human-Computer Interaction (HCI)**
 
 ## 🏆 Awards & Achievements
 
-- 🥇 **ICPC Asia Dhaka Regional 2023** — Ranked **176th** (top 7.09% of 2479 teams) — *Team: SUST Decryptors*
-- 🤖 **SOLVIO AI Hackathon 2025 Finalist** — Top 20 (6%) of 330+ teams with *Lumos*, a GenAI scholarship platform (FastAPI, React, RAG)
-- 🏅 **University Innovation Hub Program 2024** — Winner at SUST IC4 with *CareNest (now Matrika)*
-- 🚀 **Learnathon 3.0 by Geeky Solutions 2024** — Selected among 3000+ participants (top 16.9%)
-- 🌌 **NASA Space Apps Challenge 2023** — Selected for onsite participation (top 50, national round)
-- 📡 **Ericsson Edge Academia Scholarship** — Selected from 12 Asia-Pacific countries for industry training
+- 🥇 **ICPC Asia Dhaka Regional 2023** : Ranked **176th** (top 7.09% of 2479 teams) : *Team: SUST Decryptors*
+- 🤖 **SOLVIO AI Hackathon 2025 Finalist** : Top 20 (6%) of 330+ teams with *Lumos*, a GenAI scholarship platform (FastAPI, React, RAG)
+- 🏅 **University Innovation Hub Program 2024** : Winner at SUST IC4 with *CareNest (now Matrika)*
+- 🚀 **Learnathon 3.0 by Geeky Solutions 2024** : Selected among 3000+ participants (top 16.9%)
+- 🌌 **NASA Space Apps Challenge 2023** : Selected for onsite participation (top 50, national round)
+- 📡 **Ericsson Edge Academia Scholarship** : Selected from 12 Asia-Pacific countries for industry training
 - 💻 **LeetCode:** Top 10% worldwide among 12M+ users; solved 280+ problems with 5 badges
 - 🧮 **1500+ problems solved** across LeetCode, Codeforces, CodeChef, AtCoder, VJudge, UVA
-<!-- - 📊 **CodeChef: 2-star coder** — Rating 1450, top 15.27% worldwide  --> 
+<!-- - 📊 **CodeChef: 2-star coder** : Rating 1450, top 15.27% worldwide  --> 
 
 ---
 💻 Tech Stack
@@ -104,25 +104,25 @@ My academic and professional interests span **Human-Computer Interaction (HCI)**
 
 ## 🏫 Teaching & Mentorship
 
-**Faculty Member** — Department of CSE, Sylhet Metropolitan University *(May 2026 - Present)*
+**Faculty Member** : Department of CSE, Sylhet Metropolitan University *(May 2026 - Present)*
 
-**Student Mentor** — SUST *(2024–2025)*
+**Student Mentor** : SUST *(2024–2025)*
 - Taught introductory and competitive programming, DSA, OOP, and databases to 30+ freshman and sophomore students
 <!--
-**Instructor (Engineering Admission Program)** — Udvash Academic & Admission Coaching *(2022–2023)*
+**Instructor (Engineering Admission Program)** : Udvash Academic & Admission Coaching *(2022–2023)*
 - Conducted lectures and mentoring sessions for 200+ students preparing for competitive university admission tests
 -->
 ---
 
 ## 🌐 Extracurricular
 
-- 🤖 **RoboSUST** — Contributed to 5+ robotics projects; led hands-on technical sessions
-- 🔭 **Copernicus Astronomical Memorial of SUST** — Participated in 12+ astronomy workshops and outreach programs
+- 🤖 **RoboSUST** : Contributed to 5+ robotics projects; led hands-on technical sessions
+- 🔭 **Copernicus Astronomical Memorial of SUST** : Participated in 12+ astronomy workshops and outreach programs
 
 ---
 
 <p align="center">
-  <i>"The more I learn, the more I realize how much I don't know." — Albert Einstein</i><br/><br/>
+  <i>"The more I learn, the more I realize how much I don't know." : Albert Einstein</i><br/><br/>
 </p>
 
 ---
